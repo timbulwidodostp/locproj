@@ -1,6 +1,8 @@
 # locproj
 Estimate Local Projections Use locproj With STATA 19
 
+https://www.youtube.com/watch?v=k-6eJ73Kgmk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
